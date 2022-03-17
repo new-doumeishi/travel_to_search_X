@@ -1,0 +1,2 @@
+# travel_to_search_X
+CUIベースの宝を探すコマンド入力型ゲームです
